@@ -1,3 +1,5 @@
 "use strict";
 
-//there's nothing here
+function add(a,b){
+  return a+b;
+}
